@@ -44,14 +44,13 @@ This platform is designed to simulate a **digital car consultancy experience** w
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
-
-git clone https://github.com/rugved-23/Car-Consultant.git
+'git clone https://github.com/rugved-23/Car-Consultant.git'
 
 2️⃣ Go to project directory
-cd Car-Consultant
+'cd Car-Consultant'
 
 3️⃣ Install dependencies
-npm install
+'npm install'
 
 4️⃣ Run the development server
-npm run dev
+'npm run dev'
